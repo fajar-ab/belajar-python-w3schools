@@ -1,4 +1,1 @@
-alfabet = []
-
-alfabet[:] = "hello world"
-print(alfabet)
+arr = ["buku", "pencil", "penghapus"]

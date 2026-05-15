@@ -1,1 +1,0 @@
-arr = ["buku", "pencil", "penghapus"]
